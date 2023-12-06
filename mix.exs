@@ -21,7 +21,7 @@ defmodule RenovateTest.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:tesla, "1.5.0"},
+      {:tesla, "~> 1.4"},
       {:poison, "~> 4.0"}
     ]
   end
