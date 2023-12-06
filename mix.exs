@@ -22,6 +22,7 @@ defmodule RenovateTest.MixProject do
   defp deps do
     [
       {:tesla, "~> 1.5"},
+      {:poison, "~> 4.0"}
     ]
   end
 end
